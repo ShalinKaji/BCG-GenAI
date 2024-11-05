@@ -1,0 +1,11 @@
+Now that we have compiled the past 3-years worth of 10-K filings data from the EDGAR database of SEC,
+we are tasked with the extraction of the following financial figures:
+1) Total Revenue.
+2) Net Income.
+3) Total Assets.
+4) Total Liabilities.
+5) Cash Flow from Operating Activities.
+
+A brute force and naive approach would be to manually parse the documents and report the findings in a Excel Worksheet.
+However, being equipped with the knowledge of Natural Language Processing (NLP) and BeautifulSoup (bs4),
+we shall approach the solution by building a Python script for the same.
