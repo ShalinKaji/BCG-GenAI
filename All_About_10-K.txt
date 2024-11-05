@@ -1,0 +1,25 @@
+Source: BCG Forage course. NOTE: I do not claim any of this file's content to be my work.
+
+10-K reports are comprehensive annual reports filed with the SEC by publicly traded companies. They provide a detailed account of a company's financial performance, including audited financial statements, management's discussion and analysis (MD&A), and disclosures about market risk, controls, and legal proceedings.
+
+Key sections to focus on for financial data extraction:
+
+# Income statement: This section provides information about the company's revenue, costs, and expenses over a specific period of time.
+        1) Key data points: Total revenue, cost of goods sold (COGS), operating expenses, and net income.
+        2) Extraction technique: Look for the income statement summary, typically in the early pages of the reports. Pay attention to year-over-year changes.
+# Balance sheet: This section outlines the company’s assets, liabilities, and the shareholders’ equity at a specific point in time.
+        1) Key data points: Current assets, long-term assets, current liabilities, long-term liabilities, and total shareholders’ equity.
+        2) Extraction technique: Focus on the balance sheet summary. Compare assets against liabilities to understand the company’s financial health and note any large changes in assets or liabilities.
+# Cash flow statement: This shows how changes to the balance sheet and income impact cash and cash equivalents.
+        1) Key data points: Cash from operating activities, investing activities, and financing activities.
+        2) Extraction technique: Analyze the cash flow statement to understand how the company generates and spends its cash. This can provide insights into a company's liquidity.
+
+Ques) Which portion are we concerned with?
+
+Ans) Part III - Item 7:
+     “Management’s Discussion and Analysis of Financial Condition and Results of Operations” gives the company’s perspective on the business results of the past financial year. This section, known as the MD&A for short, allows company management to tell its story in its own words. The MD&A presents:
+         1) The company’s operations and financial results, including information about the company’s liquidity and capital resources and any known trends or uncertainties that could materially affect the company’s results. This section may also discuss management’s views of key business risks and what it is doing to address them.
+         2) Material changes in the company’s results compared to a prior period.
+         3) Critical accounting judgments, such as estimates and assumptions. These accounting judgments – and any changes from previous years – can have a significant impact on the numbers in the financial statements, such as assets, costs, and net income.
+    
+    Source: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/how-read
